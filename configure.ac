@@ -128,4 +128,3 @@ gst/Makefile
 gst/hyperspectral/Makefile
 )
 AC_OUTPUT
-AG_GST_OUTPUT_PLUGINS
